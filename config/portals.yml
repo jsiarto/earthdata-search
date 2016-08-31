@@ -1,4 +1,21 @@
 portals: &portals
+
+  aquagibs:
+    org: EED Design
+    title: AQUA GIBS
+    params:
+      project:
+        - AQUA
+      tag_key:
+        - edsc.extra.gibs
+    logos:
+      - id: ornl-daac-logo
+        image: /images/portals/ornl/ornl-daac-logo-mono.png
+        link: https://carve.ornl.gov/
+        title: ORNL DAAC CARVE Home
+    scripts:
+      - edsc-portal.aqua-gibs.min.js
+
   carve:
     org: ORNL DAAC
     title: CARVE

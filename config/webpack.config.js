@@ -17,7 +17,8 @@ module.exports = {
     "edsc-plugin.datasource.cmr": "./edsc/plugins/datasource/cmr/src/js/edsc-plugin.datasource.cmr.jsx",
     "edsc-plugin.renderer.cmr": "./edsc/plugins/renderer/cmr/src/js/edsc-plugin.renderer.cmr.jsx",
     "edsc-portal.example": "./edsc/portals/example/src/js/edsc-portal.example.jsx",
-    "edsc-portal.ornl": "./edsc/portals/ornl/src/js/edsc-portal.ornl.jsx"
+    "edsc-portal.ornl": "./edsc/portals/ornl/src/js/edsc-portal.ornl.jsx",
+    "edsc-portal.aqua-gibs": "./edsc/portals/aqua-gibs/src/js/edsc-portal.aqua-gibs.jsx"
   },
   output: {
     path: "./edsc/dist",
